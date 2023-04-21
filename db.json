@@ -1,40 +1,46 @@
 {
   "items": [
     {
-      "id": 1,
+      "name": "Bananas",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 1
+    },
+    {
+      "name": "Juice",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 2
+    },
+    {
+      "name": "Milk",
+      "category": "Dairy",
+      "isInCart": false,
+      "id": 3
+    },
+    {
       "name": "Yogurt",
       "category": "Dairy",
-      "isInCart": false
+      "isInCart": false,
+      "id": 4
     },
     {
-      "id": 2,
-      "name": "Pomegranate",
+      "name": "Watermelons",
       "category": "Produce",
-      "isInCart": false
+      "isInCart": false,
+      "id": 5
     },
     {
-      "id": 3,
-      "name": "Lettuce",
-      "category": "Produce",
-      "isInCart": false
-    },
-    {
-      "id": 4,
-      "name": "String Cheese",
+      "name": "Cheese",
       "category": "Dairy",
-      "isInCart": false
+      "isInCart": false,
+      "id": 6
     },
     {
-      "id": 5,
-      "name": "Swiss Cheese",
-      "category": "Dairy",
-      "isInCart": false
-    },
-    {
-      "id": 6,
       "name": "Cookies",
       "category": "Dessert",
-      "isInCart": false
+      "isInCart": false,
+      "id": 7
     }
   ]
 }
